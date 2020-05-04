@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>oguzhanın</title>
+	<title>oguzhan</title>
 </head>
 <body>
 
+Ananın
 AMI
-TEST
-AMI
+OÇ
+OZİ
 
 
 </body>
